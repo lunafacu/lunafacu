@@ -5,7 +5,9 @@ Trabajo con JavaScript y React.
 Estudiante de Programación en UTN FRGP.
 
 Estoy estudiando y formandome en relación al Front End por mi cuenta o con cursos relacionados.
-Y estoy en busca de mi primera experiencia laboral con este enfoque para nutrir y desarrollar nuevas habilidades.
+Y por el lado de la facultad estamos viendo el manejo de datos en mis primeros pasos de SQL.
+
+Estoy en busca de mi primera experiencia laboral con este enfoque para nutrir y desarrollar nuevas habilidades.
 
 Por el momento tengo aquí repositorios relacionados a entregas de proyectos con fines académicos.
 

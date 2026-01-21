@@ -1,16 +1,17 @@
-## Hi there 👋
+Hola 👋 Soy Facundo
 
-<!--
-**lunafacu/lunafacu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Front End Jr.
+Trabajo con JavaScript y React.
+Estudiante de Programación en UTN FRGP.
 
-Here are some ideas to get you started:
+Estoy estudiando y formandome en relación al Front End por mi cuenta o con cursos relacionados.
+Y estoy en busca de mi primera experiencia laboral con este enfoque para nutrir y desarrollar nuevas habilidades.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Por el momento tengo aquí repositorios relacionados a entregas de proyectos con fines académicos.
+
+Y una petición de una página web para tener el control de stock de un negocio.
+
+Mis contactos son:
+
+lunafacu01@gmail.com
++54 9 11 5131-1428

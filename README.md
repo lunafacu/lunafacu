@@ -70,3 +70,13 @@
 <a href="https://wa.link/sp3tos" target="_blank">
 <img src="https://img.shields.io/badge/WhatsApp: 1151311428-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
+
+<h3>⚙️ GitHub Analytics<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></h3>
+
+<p align="center">
+<a href="https://github.com/lunafacu">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lunafacu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lunafacu&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+

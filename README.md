@@ -3,32 +3,14 @@
 <h3><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></h3>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br>
-
-- :school: I am a `Junior` at [Faculty of Computers & Informatics](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](http://suez.edu.eg/ar/).
-- :trophy: 2x `ACPC` Finalist.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
-<br>
-
-
-Junior Front-End Developer | JavaScript & React | Programming Student at UTN FRGP
-
-I am a Front-End Developer currently specializing in JavaScript and React through self-directed learning and professional courses. My academic background at UTN FRGP is strengthening my foundations in file management, advanced logical thinking, and SQL database administration.
-
-I am actively seeking my first professional challenge in the tech industry to apply my knowledge, contribute to impactful projects, and continue developing my technical skills.
-
-In this profile, you will find:
-
-Academic Projects: Core developments from my university career.
-
-Practical Solutions: Custom tools, such as a dedicated stock management web application.
-
-My portfolio: <a href="https://lunafacu.github.io/Mi-Portfolio/" target="_blank">https://lunafacu.github.io/Mi-Portfolio/</a>
+- 🎓 Advanced [Programming Student](https://www.frgp.utn.edu.ar/carreras/tup_tuss) (GPA: 8.50) at [UTN - General Pacheco Regional Faculty](https://www.frgp.utn.edu.ar/).
+- 🛠️ Specializing in C#, .NET Framework, C++, Python, and SQL development.
+- 🐧 Linux enthusiast, focused on Docker configurations and self-directed learning through The Odin Project.
+- 📊 Intermediate/Advanced experience in Excel for data analysis and process optimization.
+- 💡 Passionate about using software to solve complex problems and drive operational efficiency.
+- 📚 Currently deepening my expertise in Node.js, Systems Methodologies, and Software Architecture.
+- 🔍 Actively seeking job opportunities (Data Analyst / Developer / Intern). You can view my [CV](https://drive.google.com/file/d/1qEJN-ebn0OBc94Rcg5t3vm9adkSYw5P0/view?usp=sharing) here.
+- 🌐 Visit my [PORTFOLIO](https://lunafacu.github.io/Mi-Portfolio/) to see my projects.
 
 <h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></h3>
 
